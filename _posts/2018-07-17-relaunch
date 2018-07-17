@@ -1,16 +1,10 @@
 ---
 layout: post
-title: Focused relaunch
+title: You're up and limping!
 ---
 
-Like many people, I want my work to have meaning. I want to feel like I'm useful and that what I do matters. For some people, that would mean developing an amazing therapy for an illness affecting millions. For other folks it would be volunteer efforts that changes the lives of others as well as their own.
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-I was talking to a friend about this desire to have work that matters and he stopped me mid sentence. He pointed out I had a blind spot on this topic. He went on to explain the way I treat IT takes a load off of my customer's shoulders.
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
-After digesting what my friend said, I took a chance and talked to current and past customers. Because of my work, I heard statements like "We don't have to worry about IT" or "Our systems are running for months without any attention". For these people, I made a big difference in their lives and let them focus on what was important to their business.
-
-I also learned something about the best way I work with customers. That is, I work best after developing a personal relationship. If I don't have your trust then you won't tell me what I need to know until it's gone critical and then, at best, we are both playing catch up.
-
-When onboarding a customer I set expectations by explaining we start by talking. Not a lot but enough to understand communication styles and initial needs. Eventually, I need to hear short-term worries, long-term worries, and long-term goals so that I can act on your behalf, deal with the immediate fires, hopefully prevent long-term fires and aim what IT does to where you want to be so your company can grow.
-
-Look at https://in3x.io for more info.
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
